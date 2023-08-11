@@ -1,0 +1,8 @@
+accelerate
+scipy
+transformers
+datasets
+peft
+sentencepiece
+einops
+wandb
